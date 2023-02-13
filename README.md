@@ -22,7 +22,7 @@
 
 - 🤔 I am seeking **assistance in finding new job opportunities in the field of technology, where I can utilize my technical and personal skills and continue to grow professionally.**
 
-- 👨‍💻 All of my projects are available at [Github(click here.)](https://github.com/KevinCastellanos1)
+- 👨‍💻 All of my projects are available on Github, and if you want to learn more about me, you can visit my [FAQ(click here.)](https://kevincastellanos1.github.io/collapsible-faq/index.html)
 
 - 💬 If you have any questions regarding **my experience in customer service, sales, training, or if you think I can help and collaborate on a project, please do not hesitate to contact me.**
 
