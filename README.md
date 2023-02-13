@@ -35,6 +35,13 @@
         <table style="width:100%">
             <tr>
                 <td align="center">
+                    <h3>Collapsible FAQ</h3>
+                    <a href="https://github.com/KevinCastellanos1/collapsible-faq">
+                        <video src="https://user-images.githubusercontent.com/32087507/218354830-ce2d316f-0d8f-473f-8cd6-ea9175b1e9fa.mp4"></video>
+                        <p>(click here.)</p>
+                    </a>
+                </td>
+                <td align="center">
                     <h3 >Card Generator</h3>
                     <a href="https://github.com/KevinCastellanos1/card-generator" target="_blank">
                         <video controls src="https://user-images.githubusercontent.com/32087507/218238203-aee93c66-c58a-4c79-95ee-337c8e797556.webm" type="video/webm"></video>            
@@ -47,16 +54,16 @@
                         <video controls src="https://user-images.githubusercontent.com/32087507/217836051-d8bc4640-a74e-4770-bd78-f1f5430d3776.webm" type="video/webm"></video>
                         <p>(click here.)</p>
                     </a>
-                </td>
+                </td>                
+            </tr>
+            <tr>
                 <td align="center">
-                    <h3 >Navigational Rotation</h3>
+                    <h3 >Lazy Loading</h3>
                     <a href="https://github.com/KevinCastellanos1/lazy-loading">
                         <video src="https://user-images.githubusercontent.com/32087507/217924659-97c4eedb-d01f-4901-8733-c097a4f25eeb.mp4"></video>
                         <p>(click here.)</p>
                     </a>
                 </td>
-            </tr>
-            <tr>
                 <td align="center">
                     <h3 >Expansion</h3>
                     <a href="https://github.com/KevinCastellanos1/expansion-img">
@@ -70,7 +77,9 @@
                         <video src="https://user-images.githubusercontent.com/32087507/218138568-d01fd76d-e22d-4182-9578-23bfdb0b6d6c.mp4"></video>
                         <p>(click here.)</p>
                     </a>
-                </td>
+                </td>                
+            </tr>
+            <tr>
                 <td align="center">
                     <h3>Carrito Compras</h3>
                     <a href="https://github.com/KevinCastellanos1/Carrito-compras">
@@ -78,22 +87,13 @@
                         <p>(click here.)</p>
                     </a>
                 </td>
-            </tr>
-            <tr>
                 <td align="center">
                     <h3>Encriptador</h3>
                     <a href="https://github.com/KevinCastellanos1/challenge-oracle-encriptador">
                         <video src="https://user-images.githubusercontent.com/32087507/211164167-521bbff5-47e8-4098-b4fe-bb7c03b2ec8a.webm"></video>
                         <p>(click here.)</p>
                     </a>
-                </td>
-                <!-- <td align="center">
-                    <h3>Encriptador</h3>
-                    <a href="https://github.com/KevinCastellanos1/challenge-oracle-encriptador">
-                        <video src="https://user-images.githubusercontent.com/32087507/211164167-521bbff5-47e8-4098-b4fe-bb7c03b2ec8a.webm"></video>
-                        <p>(click here.)</p>
-                    </a>
-                </td>  -->
+                </td>                
                 <!-- <td align="center">
                     <h3>Encriptador</h3>
                     <a href="https://github.com/KevinCastellanos1/challenge-oracle-encriptador">
