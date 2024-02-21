@@ -11,27 +11,56 @@
         <h1 align="center">Hi 👋, I'm Kevin</h1>
     </header>
     <div align="justify">
-        <p>I am a passionate industrial engineer in technology, always seeking new opportunities for growth and development in software analysis and development, as well as data science.</p>
+        <p>I am an Industrial Engineer with a passion for technology, focusing on data analysis and software development. My innate curiosity and constant desire for learning have led me to delve deeply into the field of data science, complementing my engineering and software development education.</p>
     </div>    
 
-- 🔭 Currently, I am working **to enhance my programming abilities and completing personal projects to gain further experience. I am also participating in a virtual technology program for software analysis and development, as well as the Oracle Next Education ONE program.**
+- 🔭 Currently, I am working **Data BI project at No Country, focusing on the detection of fraudulent transactions. This involves deep analysis of financial data, identifying fraud patterns, and developing predictive models to prevent fraud.**
 
-- 🌱 I am currently **learning Java and working on web development projects using HTML, CSS, and JavaScript.**
+- 🌱 I am currently **enhancing my proficiency in Looker, SQL, and Python. I am leveraging these tools in data projects to uncover insights that inform decision-making and optimize operational efficiency.**
 
 - 👯 I am seeking  **opportunities to collaborate on data analysis or web development projects and share my knowledge with other professionals in the field. In addition, I am looking for new learning opportunities and challenges in these areas.**
-
-- 🤔 I am seeking **assistance in finding new job opportunities in the field of technology, where I can utilize my technical and personal skills and continue to grow professionally.**
-
-- 👨‍💻 All of my projects are available on Github, and if you want to learn more about me, you can visit my [FAQ(click here.)](https://kevincastellanos1.github.io/collapsible-faq/index.html)
 
 - 💬 If you have any questions regarding **my experience in customer service, sales, training, or if you think I can help and collaborate on a project, please do not hesitate to contact me.**
 
 - 📫 How to reach me **You can contact me through [LinkedIn](https://www.linkedin.com/in/kevincastellanos/) or send me an email at kecastellanos7@gmail.com**
 
 - ⚡ Fun fact **I am an avid reader and enjoy spending my free time exploring new books and genres.**
-     
+
+
+
+ <div align="center">
+        <h3>Data analysis projects</h3>    
+        <table style="width:100%">
+            <tr>
+                <td align="center">
+                    <h3>Fraud Detection</h3>
+                    <a href="">
+                        <video src=""></video>
+                        <p>(click here.)</p>
+                    </a>
+                </td>
+               <!-- <td align="center">
+                    <h3 >Card Generator</h3>
+                    <a href="https://github.com/KevinCastellanos1/card-generator" target="_blank">
+                        <video controls src="https://user-images.githubusercontent.com/32087507/218238203-aee93c66-c58a-4c79-95ee-337c8e797556.webm" type="video/webm"></video>            
+                        <p>(click here.)</p>
+                    </a>                
+                </td>        -->    
+               <!-- <td align="center">
+                    <h3>Navigational Rotation</h3>
+                    <a href="https://github.com/KevinCastellanos1/navigational-rotation">
+                        <video controls src="https://user-images.githubusercontent.com/32087507/217836051-d8bc4640-a74e-4770-bd78-f1f5430d3776.webm" type="video/webm"></video>
+                        <p>(click here.)</p>
+                    </a>
+                </td>       -->          
+            </tr>
+         </table>
+    </div>
+    <br>
+    <br>
+    <br>
     <div align="center">
-        <h3>Projects</h3>    
+        <h3>JavaScript, CSS and HTML Projects</h3>    
         <table style="width:100%">
             <tr>
                 <td align="center">
