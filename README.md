@@ -34,7 +34,7 @@
             <tr>
                 <td align="center">
                     <h3>Fraud Detection</h3>
-                    <a href="">
+                    <a href="https://fintech-solvers.netlify.app/">
                         <video src=""></video>
                         <p>(click here.)</p>
                     </a>
